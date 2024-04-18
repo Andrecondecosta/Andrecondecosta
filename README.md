@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andre Costa</h1>
-<h3 align="center">I'm an aspiring Full-stack developerl!</h3>
+<h3 align="center">I'm an aspiring Full-stack developer!</h3>
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, Ruby on Rails and other relevant technologies.**
 
