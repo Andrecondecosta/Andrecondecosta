@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **I'm a junior full-stack web developer with a passion for creating innovative and impactful solutions. I recently completed the intensive Web Development course at Le Wagon and am looking forward to applying my skills to challenging and stimulating projects.**
 
-- 📫 How to reach me **LinkedIn: linkedin.com/in/andrecondecosta**
+- 📫 How to reach me **[Andre Costa](https://www.linkedin.com/in/andrecondecosta)**
 
 
 <h3 align="left">Languages and Tools:</h3>
