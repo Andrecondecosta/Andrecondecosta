@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Andre Costa</h1>
 <h3 align="center">I'm an aspiring Full-stack developer!</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, Ruby on Rails and other relevant technologies.**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **I'm a junior full-stack web developer with a passion for creating innovative and impactful solutions. I recently completed the intensive Web Development course at Le Wagon and am looking forward to applying my skills to challenging and stimulating projects.**
+- 💬 Ask me about **ruby on Rails.**
 
 - 📫 How to reach me **[Andre Costa](https://www.linkedin.com/in/andrecondecosta)**
 
